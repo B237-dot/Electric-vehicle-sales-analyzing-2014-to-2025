@@ -70,5 +70,5 @@ git init
 git add .
 git commit -m "Initial commit - EV data storytelling project"
 git branch -M main
-git remote add origin https://github.com/yourusername/india-ev-data-story.git
+git remote add origin https://github.com/Sushmitha/india-ev-data-story.git
 git push -u origin main
